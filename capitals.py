@@ -1,7 +1,7 @@
 # to import into another file:
 # (put the line below at the top of the file to import)
 # from capitals import states
-# print(states)
+# print(states) # print to check
 
 # an array of state dictionaries
 states = [
